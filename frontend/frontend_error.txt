@@ -1,0 +1,12 @@
+﻿
+> frontend@0.0.0 dev
+> vite
+
+node.exe : 'vite' is not recognized as an internal or external command,
+At line:1 char:1
++ & "D:\server\Nodejs/node.exe" "D:\server\Nodejs/node_modules/npm/bin/ ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ('vite' is not r...ternal command,:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+operable program or batch file.
